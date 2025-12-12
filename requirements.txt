@@ -1,6 +1,12 @@
+# Core Machine Learning & Computer Vision
+ultralytics==8.0.196
+opencv-python>=4.8.0
+matplotlib>=3.7.1
+numpy>=1.24.3
 
-ultralytics
-opencv-python
-numpy
-matplotlib
-jupyter
+# Dataset Management
+roboflow
+
+# Notebook Utilities
+ipykernel
+notebook
