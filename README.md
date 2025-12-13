@@ -43,4 +43,4 @@ AI Usage
 See docs/AI_usage_log.md
 References
 
-    https://docs.ultralytics.com
+https://docs.ultralytics.com
