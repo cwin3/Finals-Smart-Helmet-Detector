@@ -43,7 +43,6 @@ Metrics will be reported after evaluation:
 
 Demo
 
-(Add video or screenshots)
 AI Usage
 
 See docs/AI_usage_log.md
